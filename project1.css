@@ -1,0 +1,47 @@
+body {
+	font-family: 'Abel'
+}
+#Home {
+	margin-top: 0;
+	height: 150px;
+	width: 100%;
+	background: lightblue;
+	text-align: center;
+	font-size: 1.4em;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding-left: 0px;
+	padding-right: 00px;
+
+}
+a {
+	text-decoration: none;
+}
+button {
+	font-size: 2em;
+	background: lightblue;
+	border: blue 1px;
+	border-radius: 10px;
+	font: blue;
+}
+#main {
+	font-size: 2em;
+	height: 230px;
+	width: 80%;
+	background: linear-gradient(from left to right: blue, red);
+	text-align: center;
+	padding-top: 20px;
+	margin-left: 10%;
+}
+#footer {
+	height: 200px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+	font-size: 2em;
+	background: lightblue;
+
+}
